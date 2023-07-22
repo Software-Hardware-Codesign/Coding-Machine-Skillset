@@ -1,4 +1,5 @@
-# The Coding Machine Developer Skillsets, Provided by the AvrSandbox Project
+# <img src="https://github.com/Software-Hardware-Codesign/Coding-Machine-Skillset/assets/60224159/125d61eb-ffa5-42bf-864a-d919423e2502" width=100 height=100/> The Coding Machine Developer Skillset
+> Provided by the AvrSandbox Project
 ## Basic Technology Knowledge:  
 - **1  2  3  4  5  6  7 :Days: Skills**
 - **[ ][ ][ ][ ][ ][ ][ ] Java Programming Language (study jls, jvm, jdk official specifications)**
