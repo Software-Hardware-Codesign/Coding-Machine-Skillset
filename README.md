@@ -19,6 +19,7 @@
 - **[ ][ ][ ][ ][ ][ ][ ] Jector (Dependency-Injection Framework)**
 - **[ ][ ][ ][ ][ ][ ][ ] Arithmos (Popular Base APIs for Design Patterns, Data Structures & Algorithms)**
 - **[ ][ ][ ][ ][ ][ ][ ] Socket4j (WIP)**
+- **[ ][ ][ ][ ][ ][ ][ ] jTestables API (WIP)**
 - **[ ][ ][ ][ ][ ][ ][ ] jMonkeyBuilder (WIP)**
 
 ## Theoretical-based Study: 
