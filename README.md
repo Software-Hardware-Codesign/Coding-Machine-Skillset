@@ -26,6 +26,8 @@
 - **[ ][ ][ ][ ][ ][ ][ ] Unix Programming**
 - **[ ][ ][ ][ ][ ][ ][ ] General Electronics**
 - **[ ][ ][ ][ ][ ][ ][ ] Digital Electronics**
+- **[ ][ ][ ][ ][ ][ ][ ] Calculus**
+- **[ ][ ][ ][ ][ ][ ][ ] Linear Algebra**
 - **[ ][ ][ ][ ][ ][ ][ ] Finite-State-Automata**
 - **[ ][ ][ ][ ][ ][ ][ ] jMonkeyEngine APIs**
 - **[ ][ ][ ][ ][ ][ ][ ] Basic Compiler Engineering**
